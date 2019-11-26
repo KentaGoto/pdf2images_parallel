@@ -90,7 +90,7 @@ func main() {
 		help := os.Args[1]
 		if help == "-h" || help == "--help" {
 			fmt.Println(`USAGE
-  $> pdf2images_concurrency.exe <DIR>
+  $> pdf2images_parallel.exe <DIR>
 
 DESCRIPTION
   Convert each page of PDF to PNG.
