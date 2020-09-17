@@ -17,3 +17,6 @@ It is recursively processed with the directory specified as the first argument a
 ## REQUIREMENTS
 - Windows
 - mutool (* Put mutool.exe in the same directory as pdf2images_parallel.exe.)
+
+## License
+MIT
