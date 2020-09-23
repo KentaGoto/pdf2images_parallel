@@ -20,3 +20,6 @@ It is recursively processed with the directory specified as the first argument a
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
